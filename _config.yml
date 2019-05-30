@@ -1,18 +1,18 @@
 # Site settings
 title: YanCao Blog
-SEOTitle: YanCao的博客 | BY Blog
+SEOTitle: 曹彦的博客 | BY yancaochn
 header-img: img/post-bg-desk.jpg
 email: yancaochn@gmail.com
 description: "Every failure is leading towards success."
-keyword: "YC, YC Blog, 曹彦的博客, YanCao, 曹彦, iOS, Apple, iPhone"
+keyword: "yancaochn, yancaochn Blog, 曹彦的博客, YanCao, 曹彦, Web, JavaScript"
 url: "http://yancaochn.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/yancaochn/yancaochn.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
